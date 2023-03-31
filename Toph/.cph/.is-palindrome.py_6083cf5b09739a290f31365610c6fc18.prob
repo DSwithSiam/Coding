@@ -1,0 +1,1 @@
+{"name":"Local: is-palindrome","url":"f:\\Coding\\Toph\\is-palindrome.py","tests":[{"id":1680291604621,"input":"racecar","output":"Yes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\Toph\\is-palindrome.py","group":"local","local":true}

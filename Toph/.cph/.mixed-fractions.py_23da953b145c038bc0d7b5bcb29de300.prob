@@ -1,0 +1,1 @@
+{"name":"Local: mixed-fractions","url":"f:\\Coding\\Toph\\mixed-fractions.py","tests":[{"id":1680292857691,"input":"9 5","output":"1 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\Toph\\mixed-fractions.py","group":"local","local":true}

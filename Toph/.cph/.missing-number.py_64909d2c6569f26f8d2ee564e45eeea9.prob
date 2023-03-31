@@ -1,0 +1,1 @@
+{"name":"Local: missing-number","url":"f:\\Coding\\Toph\\missing-number.py","tests":[{"id":1680292798481,"input":"10\n1 2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\Toph\\missing-number.py","group":"local","local":true}

@@ -9,4 +9,4 @@
         printf("%lf\n", sum / x);
     }
     return 0;  
-}  
+ }  

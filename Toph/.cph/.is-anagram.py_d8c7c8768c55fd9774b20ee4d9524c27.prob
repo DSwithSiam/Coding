@@ -1,0 +1,1 @@
+{"name":"Local: is-anagram","url":"f:\\Coding\\Toph\\is-anagram.py","tests":[{"id":1680292219713,"input":"listen\nsilent","output":"Yes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\Toph\\is-anagram.py","group":"local","local":true}

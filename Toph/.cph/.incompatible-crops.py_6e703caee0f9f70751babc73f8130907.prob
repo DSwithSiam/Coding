@@ -1,0 +1,1 @@
+{"name":"Local: incompatible-crops","url":"f:\\Coding\\Toph\\incompatible-crops.py","tests":[{"id":1680292318761,"input":"6 6\n****..\n*****.\n..*.**\n.*...*\n.*.**.\n..**..","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\Toph\\incompatible-crops.py","group":"local","local":true}

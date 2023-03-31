@@ -1,0 +1,1 @@
+{"name":"Local: big-factorials","url":"f:\\Coding\\Toph\\big-factorials.py","tests":[{"id":1680292430527,"input":"4","output":"24"},{"id":1680292440328,"input":"10","output":"8800"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\Toph\\big-factorials.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: full-pyramid","url":"f:\\Coding\\Toph\\full-pyramid.py","tests":[{"id":1680292494992,"input":"3","output":"  *\n * *\n* * *"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\Toph\\full-pyramid.py","group":"local","local":true}

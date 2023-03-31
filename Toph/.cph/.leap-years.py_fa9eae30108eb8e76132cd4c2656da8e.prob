@@ -1,0 +1,1 @@
+{"name":"Local: leap-years","url":"f:\\Coding\\Toph\\leap-years.py","tests":[{"id":1680293336825,"input":"2004\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\Toph\\leap-years.py","group":"local","local":true}

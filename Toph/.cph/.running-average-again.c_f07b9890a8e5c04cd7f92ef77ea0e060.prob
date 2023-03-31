@@ -1,0 +1,1 @@
+{"name":"Local: running-average-again","url":"f:\\Coding\\Toph\\running-average-again.c","tests":[{"id":1680293007117,"input":"3\n4 2 7","output":"4\n3\n4.3333333333"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\Toph\\running-average-again.c","group":"local","local":true}

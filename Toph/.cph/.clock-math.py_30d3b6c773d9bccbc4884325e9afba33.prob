@@ -1,0 +1,1 @@
+{"name":"Local: clock-math","url":"f:\\Coding\\Toph\\clock-math.py","tests":[{"id":1680291660188,"input":"10 15","output":"142.5000000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\Toph\\clock-math.py","group":"local","local":true}

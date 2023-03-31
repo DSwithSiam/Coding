@@ -1,0 +1,1 @@
+{"name":"Local: is-prime","url":"f:\\Coding\\Toph\\is-prime.py","tests":[{"id":1680293204665,"input":"7","output":"Yes"},{"id":1680293268360,"input":"5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\Toph\\is-prime.py","group":"local","local":true}

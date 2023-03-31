@@ -1,0 +1,1 @@
+{"name":"Local: little-subarray-sum","url":"f:\\Coding\\Toph\\little-subarray-sum.py","tests":[{"id":1680293420928,"input":"5 1 4\n13 7 20 1 8 ","output":"36"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\Toph\\little-subarray-sum.py","group":"local","local":true}

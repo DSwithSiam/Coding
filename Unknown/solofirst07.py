@@ -59,15 +59,3 @@ for i in range(a):
 
 
 
-#Problem05
-
-
-
-#Problem06
-
-
-
-#Problem07
-#Problem08
-#Problem09
-#Problem10
