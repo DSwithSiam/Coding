@@ -1,0 +1,1 @@
+{"name":"Local: divisible-by-5-or-not","url":"f:\\Coding\\HackerRank\\divisible-by-5-or-not.c","tests":[{"id":1680718075030,"input":"10","output":"1 No\n2 No\n3 No\n4 No\n5 Yes\n6 No\n7 No\n8 No\n9 No\n10 Yes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\HackerRank\\divisible-by-5-or-not.c","group":"local","local":true}
