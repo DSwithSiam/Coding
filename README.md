@@ -6,6 +6,6 @@ https://codeforces.com/profile/masipulislamsiam
 ## Toph
 https://toph.co/u/DSwithSiam
 ## Codechef
-https://www.codechef.com/learn/course/python-beginner
+https://www.codechef.com/users/dswithsiam
 
 >>>>>>>
